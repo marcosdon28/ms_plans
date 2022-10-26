@@ -1,0 +1,6 @@
+Aplicación de planes y suscripciones.
+
+El objetivo era construir un sistema que permita cargar y ver planes de pago en distintas monedas y crear cupones de descuento para los mismos.
+
+Para eso usamos django ya que podemos armar una api facilmente, crear una base de datos integrada y tener un panel de administracion rapidamente.
+
